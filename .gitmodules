@@ -1,0 +1,6 @@
+[submodule "rga-angular-app"]
+	path = rga-angular-app
+	url = ./rga-angular-app
+[submodule "rga-react-app"]
+	path = rga-react-app
+	url = ./rga-react-app
