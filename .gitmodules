@@ -3,4 +3,4 @@
 	url = ./rga-angular-app
 [submodule "rga-react-app"]
 	path = rga-react-app
-	url = ./rga-react-app
+	url = https://github.com/drinkingChai/rga-react-app.git
