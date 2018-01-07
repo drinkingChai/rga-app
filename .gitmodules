@@ -1,6 +1,6 @@
 [submodule "rga-angular-app"]
 	path = rga-angular-app
-	url = ./rga-angular-app
+	url = https://github.com/drinkingChai/rga-angular-app.git
 [submodule "rga-react-app"]
 	path = rga-react-app
 	url = https://github.com/drinkingChai/rga-react-app.git
