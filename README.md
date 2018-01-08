@@ -1,4 +1,4 @@
-# r/GA App
+# R/GA App
 
 ## Repos
 
